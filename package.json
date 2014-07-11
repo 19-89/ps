@@ -1,0 +1,26 @@
+{
+  "name": "ps",
+  "private": true,
+  "version": "0.0.0",
+  "description": "a Sails application",
+  "dependencies": {
+    "sails": "0.9.16",
+    "grunt": "0.4.1",
+    "sails-disk": "~0.9.0",
+    "ejs": "0.8.4",
+    "optimist": "0.3.4",
+    "jade": "~1.3.1",
+    "superagent": "~0.18.0",
+    "jquery": "~2.1.1",
+    "jsdom": "~0.11.1",
+    "http": "0.0.0"
+  },
+  "scripts": {
+    "start": "node app.js",
+    "debug": "node debug app.js"
+  },
+  "main": "app.js",
+  "repository": "",
+  "author": "",
+  "license": ""
+}
